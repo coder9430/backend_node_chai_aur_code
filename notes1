@@ -1,0 +1,20 @@
+backend development->
+1.A programming language (on a framework)
+2.A Database
+
+A javascript based backend
+->Data
+->File
+->Third Party(API)
+
+
+Package.json,.env,src->1.index(entry point) 2.App 3.constants
+
+Directories
+1.Database
+2.Models
+3.controllers
+4.Routes
+5.Middlewares
+6.Utils
+7.More(depends)
