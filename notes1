@@ -18,3 +18,9 @@ Directories
 5.Middlewares
 6.Utils
 7.More(depends)
+
+
+computer,Mobile-------->  server
+                express    (listen)
+                (package)            /:home route
+            <-----------

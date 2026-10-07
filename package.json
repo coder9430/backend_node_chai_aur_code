@@ -1,0 +1,25 @@
+{
+  "name": "chai_backend",
+  "version": "1.0.0",
+  "description": "a basic app to deplot",
+  "keywords": [],
+  "homepage": "https://github.com/coder9430/backend_node_chai_aur_code#readme",
+  "bugs": {
+    "url": "https://github.com/coder9430/backend_node_chai_aur_code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coder9430/backend_node_chai_aur_code.git"
+  },
+  "license": "ISC",
+  "author": "sapna",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1"
+  }
+}
